@@ -1,0 +1,9 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+compile_commands.json
+
+# kxbuild signing material (keep certificates out of version control)
+keychain/
