@@ -73,6 +73,17 @@ ObjCGallery/
 
 `ObjCGallery` 文件夹是同步文件夹组，放进去的源文件会自动加入应用，无需修改工程文件。新增示例：写一个 `UIViewController` 子类，再到 `GalleryViewController.m` 里加一条带类名的 `GalleryDemo`。
 
+## 相关仓库
+
+- [**KXBuild**](https://github.com/kxbuild/kxbuild)：在 Windows、Linux、macOS 上编译、运行、发布 iOS App 的命令行工具和 VS Code 插件
+- [SwiftUI Gallery](https://github.com/kxbuild/swift-gallery)：15 个 SwiftUI 示例：控件、列表、动画、手势、Swift Charts、MapKit、SwiftData
+- [Flutter Gallery](https://github.com/kxbuild/flutter-gallery)：Material 与 Cupertino 组件，外加四个完整示例应用
+- [React Native Gallery](https://github.com/kxbuild/react-native-gallery)：16 个 React Native 内置组件与 API 示例
+- [Expo Gallery](https://github.com/kxbuild/expo-gallery)：22 个 Expo SDK 模块：相机、传感器、定位、SQLite 等
+- [Godot Gallery](https://github.com/kxbuild/godot-gallery)：10 个 Godot 4 示例，导出为 iOS 工程
+- [Unity Gallery](https://github.com/kxbuild/unity-gallery)：10 个 Unity 6 示例，导出为 iOS 工程
+- [KXBuild 应用模板](https://github.com/kxbuild/kxbuild-app-templates)：`kxbuild project create` 和 `add-target` 使用的项目与 target 模板，欢迎贡献
+
 ## 许可证
 
 Apache 2.0，见 [LICENSE](LICENSE)。UIKit 和 SF Symbols 是 Apple Inc. 的商标。
